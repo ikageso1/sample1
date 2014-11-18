@@ -1,4 +1,4 @@
 int main(){
- printf("hogehoge\n");
+ printf("hogehogehogeeeeeeeeeeeeee\n");
  return 0;
 }
